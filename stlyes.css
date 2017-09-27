@@ -1,0 +1,36 @@
+body  {
+        background-color: #8A2BE2;
+        margin-top: 10px;
+        margin-right: 15px;
+        margin-left: 15px;
+        margin-bottom: 10px; 
+}
+
+h3 {
+    font-family: Verdana;
+    color: #F5FBEF;  
+    font-size: 15px; 
+}
+h4 { 
+    
+    font-family: Courier;
+    color: #F5FBEF }
+
+p {padding-top: 10px; 
+   padding-right: 30px;
+   padding-left: 30px;
+   padding-bottom: 10px;
+   color: #F5FBEF;
+   font-family: Courier;
+}
+
+li {
+    font-family: Courier;
+    color: #F5FBEF;
+}   
+
+<div  
+
+
+
+}
