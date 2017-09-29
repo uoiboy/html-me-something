@@ -28,15 +28,16 @@ li {
     font-family: Courier;
     color: #F5FBEF;
 }   
+.intro{
+    
+    background-color: #DAA520;
+    border: 3px solid #F5FBEF; 
+}
 
+.singer{
 
-img {  align: center;
-
-
-
-
-
-
+    border: 3px solid #DAA520;
+    background-color: #009393;   
 }
 
 article {
@@ -49,4 +50,12 @@ article {
     background-color: #993366;
 
 
+}
+
+.words{
+    border: 3px solid #DAA520;
+}
+
+#favorite{
+     border: 8px dashed #DAA520; 
 }
