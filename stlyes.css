@@ -29,8 +29,24 @@ li {
     color: #F5FBEF;
 }   
 
-<div  
 
+img {  align: center;
+
+
+
+
+
+
+}
+
+article {
+
+
+    font-family: Courier;
+    font-size:  20px;
+    font-weight: bold;
+    color: #F5FBEF;
+    background-color: #993366;
 
 
 }
